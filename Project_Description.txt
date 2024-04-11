@@ -1,0 +1,16 @@
+📊 **Analyzing Insights from a Food Delivery Business Dataset**
+
+I recently had the opportunity to dive into a fascinating data analysis project involving a dataset from a food delivery business similar to Zomato. Using SQL queries and data visualization techniques, I uncovered valuable insights that shed light on customer behavior and business performance.
+
+**Key Findings:**
+🍽️ **Customer Spending Patterns:** By analyzing the sum of amounts spent by each user on Zomato, I identified trends in customer expenditure and highlighted top spenders.
+📅 **Distinct Visit Dates:** I discovered the frequency of customer visits to Zomato by counting the distinct dates each user interacted with the platform.
+🛒 **Popular Menu Items:** Through SQL queries, I determined the most purchased item on the menu and how often it was bought by users.
+💳 **Points Redemption Analysis:** Utilizing transaction data, I ranked transactions by customers and analyzed the effectiveness of the loyalty program in terms of points earned and redeemed.
+
+**Insights and Visualizations:** I visualized these insights using SQL queries and data visualization tools, making it easier to understand complex trends and patterns in customer behavior.
+
+**Conclusion:** This project provided actionable insights that can inform strategic decisions for the food delivery business, such as optimizing menu offerings, improving customer engagement, and refining the loyalty program.
+
+I'm excited to share more about this project and discuss how data analysis can drive business growth and innovation. Feel free to reach out for further discussion or collaboration opportunities!
+
